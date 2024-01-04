@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/ovoroshylo3"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=50&pause=1000&color=56F784&background=FFFD1B00&center=true&vCenter=true&multiline=true&random=false&width=500&height=150&lines=I+am+a+smart+web+developer.+;I+can+do+everything."></a>
+  <a href="https://github.com/ovoroshylo3"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=50&pause=1000&color=56F784&background=FFFD1B00&center=true&vCenter=true&multiline=true&random=false&width=500&height=150&lines=I+am+a+FullStack+developer.+;"></a>
   <img align="center" alt="Coding" width="400" src="tenor.gif">
 </p>
 
